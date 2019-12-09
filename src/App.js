@@ -1,9 +1,9 @@
 import React from 'react';
-
+import Homepage from './homepage.componenet'
 function App() {
   return (
     <div className="App">
-      <h1>it's working</h1>
+      <Homepage />
     </div>
   );
 }
