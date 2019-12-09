@@ -1,5 +1,5 @@
 import React from 'react';
-import Homepage from './homepage.componenet'
+import Homepage from './pages/homepage.componenet'
 function App() {
   return (
     <div className="App">
