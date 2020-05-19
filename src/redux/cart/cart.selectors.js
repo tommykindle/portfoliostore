@@ -15,3 +15,5 @@ export const selectCartItemsCount = createSelector(
       0
     )
 );
+
+// breaks up slices of state to use in different components for memoization
